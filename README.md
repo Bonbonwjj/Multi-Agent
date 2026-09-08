@@ -1,4 +1,4 @@
-# ChatDev ACL 2024 教学复现
+# ChatDev 
 
 本项目按照论文与官方 `chatdev1.0` 分支复现 ChatDev 的核心算法，并提供交互式可视化学习界面。
 
